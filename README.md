@@ -21,16 +21,15 @@ This project is built for learning and experimenting with basic NLP-style transf
 
 ## Workflow Steps
 
-1. Clean Text — Removes extra spaces and formats text
-2. Summarize — Keeps only the main sentences
-3. Extract Key Points — Converts sentences into bullet points
-4. Tag Category — Labels text based on keywords
+1. Clean Text: Removes extra spaces and formats text
+2. Summarize: Keeps only the main sentences
+3. Extract Key Points: Converts sentences into bullet points
+4. Tag Category: Labels text based on keywords
 
 
 ## How to Run the Project
 
 ### 1. Install dependencies
-
 
 npm install
 
